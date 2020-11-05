@@ -3,7 +3,7 @@
 """
 Created on Sat Sep  5 14:18:02 2020
 
-@author: devikrishnan
+@author: sreeraksha
 """
 import pandas as pd
 from sklearn.model_selection import train_test_split
